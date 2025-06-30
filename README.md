@@ -26,9 +26,3 @@ J'adore apprendre toujours plus en informatique, également expérimenter de nou
 
 - 🌐 [Site personnel](https://anthonus.fr)
 - ✉️ [Email](mailto:contact@anthonus.fr)
-
----
-
-## Meilleurs repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ANTHONUSS&repo=ANTHONUS-bot)](https://github.com/ANTHONUSS/ANTHONUS-bot)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ANTHONUSS&repo=CustomAssistant)](https://github.com/ANTHONUSS/CustomAssistant)
