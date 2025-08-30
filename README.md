@@ -26,3 +26,8 @@ J'adore apprendre toujours plus en informatique, également expérimenter de nou
 
 - 🌐 [Site personnel](https://anthonus.fr)
 - ✉️ [Email](mailto:contact@anthonus.fr)
+
+---
+
+## 🍵 Buy me a coffee !! 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U6U81KH349)
