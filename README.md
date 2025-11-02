@@ -8,8 +8,8 @@ J'adore apprendre toujours plus en informatique, également expérimenter de nou
 
 ## 💻 Tech & compétences
 
-- **Langages** : Java, HTML/CSS, JavaScript, C++, SQL
-- **Frameworks/Libs/techs** : JDA (Discord), OpenAI API, JavaFX, Swing
+- **Langages** : Java, Kotlin, C++, HTML/CSS, JavaScript, PHP, SQL
+- **Frameworks/Libs/techs** : JDA (Discord API), OpenAI API, JavaFX, Swing, QT
 - **Systèmes & serveurs** : Windows, Linux, Apache, Tailscale
 - **Matériel & réseaux** : montage/réparation PC, configuration NAS, administration de serveurs, setup de serveurs de jeux
 
