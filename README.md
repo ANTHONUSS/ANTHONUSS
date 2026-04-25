@@ -1,1 +1,1 @@
-# ⚠️ Github ne me sert plus que pour les dépôts collaboratifs. Pour tout voir veuillez aller sur [mon instance personnelle](https://git.anthonus.fr/anthonus?page=1&sort=recentupdate&q=&tab=repositories&language=) ⚠️
+# Personal projects have moved to my [self-hosted Forgejo instance](https://git.anthonus.fr/anthonus?tab=repositories). This account is reserved for collaborative repositories and publicly released projects.
